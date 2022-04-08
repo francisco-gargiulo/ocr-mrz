@@ -1,0 +1,26 @@
+{
+    "name": "ocr-mrz",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Francisco Gargiulo",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/francisco-gargiulo/ocr-mrz.git"
+    },
+    "bugs": {
+        "url": "https://github.com/francisco-gargiulo/ocr-mrz/issues"
+    },
+    "homepage": "https://github.com/francisco-gargiulo/ocr-mrz#readme",
+    "description": "",
+    "dependencies": {
+        "image-js": "^0.33.2",
+        "ml-matrix": "^6.9.0",
+        "radians-degrees": "^1.0.0",
+        "transformation-matrix": "^2.11.1",
+        "uuid": "^8.3.2"
+    }
+}
